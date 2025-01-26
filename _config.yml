@@ -1,10 +1,10 @@
 name: 
-author: 
-url: 
+author: JYsaemyeo
+url: 'http://JY_developer.github.io'
 baseurl: 
 resume_site: 
 description: 
-github_username: 
+github_username: JYsaeymeo
 github: 
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
